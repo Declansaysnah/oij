@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jesus Love
+* source:	https://sketchfab.com/3d-models/jesus-love-dc067e0a5df745708eeaf719edaca08a
+* author:	bong_voxel (https://sketchfab.com/bongcature)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jesus Love" (https://sketchfab.com/3d-models/jesus-love-dc067e0a5df745708eeaf719edaca08a) by bong_voxel (https://sketchfab.com/bongcature) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
